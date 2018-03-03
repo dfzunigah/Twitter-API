@@ -1,3 +1,4 @@
+#Daniel Zuñiga - 03/03/18 @ National University of Colombia
 #This script allows you getting the profile of all users followed by an account
 
 #Tweepy API auhentification
